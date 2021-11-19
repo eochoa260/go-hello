@@ -1,0 +1,1 @@
+environments = ["staging", "production"]
